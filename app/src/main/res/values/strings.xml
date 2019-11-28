@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_label">Latest Tech News</string>
+    <string name="http_error">Problem building the URL </string>
+    <string name="request_method">GET</string>
+    <string name="error_message">Error response code: </string>
+    <string name="jsonResult_exception">Problem retrieving the article JSON results.</string>
+    <string name="unicode_format">UTF-8</string>
+    <string name="object_response">response</string>
+    <string name="array_results">results</string>
+    <string name="image_description">Photo related to this article.</string>
+    <string name="title_string">webTitle</string>
+    <string name="section_name">sectionName</string>
+    <string name="publication_dateAndTime">webPublicationDate</string>
+    <string name="url_web">webUrl</string>
+    <string name="object_fields">fields</string>
+    <string name="thumbnail_key">thumbnail</string>
+    <string name="array_tags">tags</string>
+    <string name="parsing_JSON_problem">Problem parsing the techNews JSON results.</string>
+    <string name="request_problem">Problem making the HTTP request.</string>
+    <string name="recycler_grid">Datagrid containing all news articles</string>
+    <string name="no_author_found">Author N/A</string>
+    <string name="holder_title">3D Hologram-like device animates objects using ultrasound waves</string>
+    <string name="holder_section">Technology</string>
+    <string name="holder_time">1:15 PM</string>
+    <string name="holder_date">Nov 20, 2019</string>
+    <string name="holder_author">Julia Carrie Wong</string>
+    <string name="received_date_and_time_format">yyyy-MM-dd\'T\'HH:mm:ss\'Z\'</string>
+    <string name="displayed_date_format">LLL dd, yyy</string>
+    <string name="displayed_time_format">h:mm a</string>
+    <string name="parsing_dataOrTime_problem">Problem in parsing date or time.</string>
+    <string name="progressBar_description">Content loading in progress</string>
+    <string name="no_internet_connection">No internet connection.</string>
+    <string name="no_news_found">No Technology News Found</string>
+    <string name="title_constant">ArticleTitle</string>
+    <string name="section_constant">NewsSection</string>
+    <string name="dateAndTime_constant">ContentDateAndTime</string>
+    <string name="url_constant">WebUrl</string>
+    <string name="thumbnail_constant">ImageUrl</string>
+    <string name="authors_constant">AuthorsList</string>
+
+</resources>

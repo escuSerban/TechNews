@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="LightCyan">#E0FFFF</color>
+    <color name="Wheat">#F5DEB3</color>
+    <color name="Maroon">#800000</color>
+    <color name="DarkSlateGray">#2F4F4F</color>
+    <color name="CadetBlue">#5F9EA0</color>
+    <color name="DarkCyan">#008B8B</color>
+    <color name="Olive">#808000</color>
+    <color name="RosyBrown">#BC8F8F</color>
+</resources>
